@@ -1,0 +1,268 @@
+[15-Sep-2016 23:38:30 UTC] PHP Fatal error:  Call to a member function from() on null in /home/myappntec/public_html/application/controllers/Login.php on line 228
+[15-Sep-2016 23:42:39 UTC] PHP Fatal error:  Call to a member function from() on null in /home/myappntec/public_html/application/controllers/Login.php on line 228
+[17-Sep-2016 00:45:46 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[17-Sep-2016 00:45:46 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 01:34:36 UTC] PHP Fatal error:  Call to undefined function last_query() in /home/myappntec/public_html/application/models/Syaf_model.php on line 166
+[24-Sep-2016 02:58:49 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 02:58:49 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:01:40 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:01:40 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:01:44 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:01:44 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:01:46 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:01:46 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:01:58 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:01:58 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:03:25 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:03:25 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:08:44 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:08:44 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:08:50 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:08:50 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:09:10 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:09:10 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:09:25 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:09:25 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:14:10 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[24-Sep-2016 03:14:10 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[01-Oct-2016 02:17:49 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[01-Oct-2016 02:17:49 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[01-Oct-2016 02:18:02 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[01-Oct-2016 02:18:02 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[01-Oct-2016 02:27:58 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[01-Oct-2016 02:27:58 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[01-Oct-2016 02:34:20 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Exceptions.php(210): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(662): CI_Exceptions->show_exception(Object(ImagickException))
+#3 [internal function]: _exception_handler(Object(ImagickException))
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[01-Oct-2016 02:34:20 UTC] PHP Fatal error:  Uncaught exception 'ImagickException' with message 'Cannot modify header information - headers already sent by (output started at /home/myappntec/public_html/system/core/Exceptions.php:272)' in /home/myappntec/public_html/system/core/Common.php:568
+Stack trace:
+#0 /home/myappntec/public_html/system/core/Common.php(568): header('Status: 500 Int...', true)
+#1 /home/myappntec/public_html/system/core/Common.php(611): set_status_header(500)
+#2 /home/myappntec/public_html/system/core/Common.php(692): _error_handler(1, 'Uncaught except...', '/home/myappntec...', 568)
+#3 [internal function]: _shutdown_handler()
+#4 {main}
+  thrown in /home/myappntec/public_html/system/core/Common.php on line 568
+[06-Oct-2016 05:22:53 UTC] PHP Fatal error:  Call to a member function from() on null in /home/myappntec/public_html/application/controllers/Csp.php on line 515
+[06-Oct-2016 21:04:37 UTC] PHP Fatal error:  Call to a member function from() on null in /home/myappntec/public_html/application/controllers/Csp.php on line 515
+[06-Oct-2016 21:35:08 UTC] PHP Fatal error:  Call to a member function from() on null in /home/myappntec/public_html/application/controllers/Csp.php on line 515
+[06-Oct-2016 22:25:39 UTC] PHP Fatal error:  Call to a member function from() on null in /home/myappntec/public_html/application/controllers/Csp.php on line 515
+[06-Oct-2016 22:40:53 UTC] PHP Fatal error:  Call to undefined method Csp_pdf::randomName() in /home/myappntec/public_html/application/controllers/Csp_pdf.php on line 1191
+[25-Oct-2016 22:40:00 UTC] PHP Fatal error:  Call to a member function from() on null in /home/myappntec/public_html/application/controllers/Csp.php on line 674
+[25-Oct-2016 22:41:31 UTC] PHP Fatal error:  Call to a member function from() on null in /home/myappntec/public_html/application/controllers/Csp.php on line 674
+[25-Oct-2016 22:55:43 UTC] PHP Fatal error:  Call to a member function from() on null in /home/myappntec/public_html/application/controllers/Csp.php on line 549
+[25-Oct-2016 23:10:33 UTC] PHP Fatal error:  Call to a member function from() on null in /home/myappntec/public_html/application/controllers/Csp.php on line 549
